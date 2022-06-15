@@ -44,11 +44,11 @@ for x in DEVS:
 #----------------------------------------------
 
 vcbot = Client(
-    'TechQuard',
+    'Tech-Quard',
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
-    plugins={'root': 'TechQuard.Plugin'},
+    plugins={'root': 'Tech-Quard.Plugin'},
 )
 
 HELP_DICT = dict()
@@ -64,8 +64,8 @@ else:
 
 #-------------------------CLIENTS-----------------------------
 if SESSION:
-    sumit = Client(SESSION, api_id=API_ID, api_hash=API_HASH, plugins={'root': 'ArrayCore.vc'})
-    call_py = PyTgCalls(Venom1)
+    sumit = Client(SESSION, api_id=API_ID, api_hash=API_HASH, plugins={'root': 'Tech-Quard.vc'})
+    call_py = PyTgCalls(TechQuard)
 else:
     sumit = None
     call_py = None
