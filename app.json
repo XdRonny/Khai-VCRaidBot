@@ -1,13 +1,13 @@
 {
-    "name": "• ArrayCore •",
+    "name": "ᴠᴄ ʀᴀɪᴅ ʙᴏᴛ",
     "description": "A Simple Telegram Voice Call Bot",
-    "logo": "https://telegra.ph/file/b918befe58de65045878c.jpg",
+    "logo": "",
     "keywords": [
         "Telegram",
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Chandan7900/TgVcUsers",
+    "repository": "https://github.com/Sumit9969/Tech-VCRaidBot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session.",
