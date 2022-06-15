@@ -1,11 +1,11 @@
 TgCrypto
-git+https://github.com/pyrogram/pyrogram@master
+Pyrogram==1.4.16
 py-tgcalls
 telegraph
 telethon 
 gTTS
 googletrans==4.0.0rc1
-git+https://github.com/HellBoy-OP/yt-dp-fork
+yt-dbl
 asyncio
 requests
 aiohttp
