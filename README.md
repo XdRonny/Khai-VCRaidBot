@@ -24,10 +24,11 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit9969/Tech-VCRaidBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<h3 align="center">
+<h2 align="center">
     ─ sᴛʀɪɴɢ sᴇssɪᴏɴ ─
-</h3>
-## ᴜsᴇ ᴏɴʟʏ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
+</h2>
+ᴜsᴇ ᴏɴʟʏ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
+
 <p align="center">
 <a href="https://telegram.me/Hana_Session_Bot"><img src="https://img.shields.io/badge/-String%20Session-blue.svg?style=for-the-badge&logo=Hana"></a>
 </p
