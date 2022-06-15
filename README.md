@@ -19,11 +19,13 @@
 - [x] ᴇɴᴅ
 
 <h3 align="center">
-    ─ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ ─
+    ─ sᴛʀɪɴɢ sᴇssɪᴏɴ ─
+## ᴜsᴇ ᴏɴʟʏ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 </h3>
 <p align="center">
 <a href="https://telegram.me/Hana_Session_Bot"><img src="https://img.shields.io/badge/-String%20Session-blue.svg?style=for-the-badge&logo=Hana"></a>
 </p
+
 
 <h3 align="center">
     ─ ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ─
