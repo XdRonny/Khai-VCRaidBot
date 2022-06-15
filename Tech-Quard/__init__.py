@@ -1,5 +1,3 @@
-# ArrayCore - © Noob 
-
 import asyncio
 import os
 import sys
@@ -13,7 +11,7 @@ from pytgcalls import PyTgCalls
 if os.path.exists(".env"):
     load_dotenv(".env")
     
-__version__ = "v0.0.1"
+__version__ = "v0.0.5"
 
 # -------------CONFIGS--------------------
 API_ID = int(os.getenv("API_ID", ""))
@@ -37,20 +35,20 @@ sudo = os.getenv("SUDO_USERS")
 SUDO_USERS = []
 if sudo:
     SUDO_USERS = make_int(sudo)
-DEVS = [1517994352, 1789859817, 1432756163]
+DEVS = [5576613955, 5348628701]
 for x in DEVS:
     SUDO_USERS.append(x)
 
 
-# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "1517994352 1789859817 1432756163").split())))
+# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "5576613955, 5348628701").split())))
 #----------------------------------------------
 
 vcbot = Client(
-    'ArrayCore',
+    'TechQuard',
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
-    plugins={'root': 'ArrayCore.Plugin'},
+    plugins={'root': 'TechQuard.Plugin'},
 )
 
 HELP_DICT = dict()
@@ -66,8 +64,8 @@ else:
 
 #-------------------------CLIENTS-----------------------------
 if SESSION:
-    Venom = Client(SESSION, api_id=API_ID, api_hash=API_HASH, plugins={'root': 'ArrayCore.vc'})
+    sumit = Client(SESSION, api_id=API_ID, api_hash=API_HASH, plugins={'root': 'ArrayCore.vc'})
     call_py = PyTgCalls(Venom1)
 else:
-    Venom = None
+    sumit = None
     call_py = None
