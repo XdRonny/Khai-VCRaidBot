@@ -1,62 +1,61 @@
+ <h2 align="center">
+    ── ᴠᴄ ʀᴀɪᴅ ʙᴏᴛ ──
+</h2>
+
 <p align="center">
-  <img src="https://te.legra.ph/file/d5bd879ad093f7729dad2.jpg" alt="ArrayCore Logo">
+  <img src="https://te.legra.ph/file/b6ee1c66d8717f75dedfa.jpg">
 </p>
-<h1 align="center">
-  <b>• 𝙎𝙃𝙄𝙑𝘼𝘼𝙔𝙑𝘾-𝘽𝙊𝙏 •</b>
-</h1>
 
-# Features 
+<h3 align="center">
+  <b>• ғᴇᴀᴛᴜʀᴇs •</b>
+</h3>
 
-- [x] Vc raid
-- [x] Deploy Upto 10 Multi Clients
-- [x] YT play
-- [x] Audio Play
-- [x] Join/leave
-- [x] Pause/Resume
-- [x] End
+- [x] ᴠᴄ ʀᴀɪᴅ
+- [x] ᴅᴇᴘʟᴏʏ ᴜᴘᴛᴏ 10 ᴍᴜʟᴛɪ ᴄʟɪᴇɴᴛs
+- [x] ʏᴛ ᴘʟᴀʏ
+- [x] ᴀᴜᴅɪᴏ ᴘʟᴀʏ
+- [x] ᴊᴏɪɴ/ʟᴇᴀᴠᴇ
+- [x] ᴘᴀᴜsᴇ/ʀᴇsᴜᴍᴇ
+- [x] ᴇɴᴅ
 
-# Deployment ✨
-> Click On buttons to expand !
+<h3 align="center">
+    ─ ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ─
+</h3>
 
-<details>
-<summary><b>• Heroku Deployment </b></summary>
-<br>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit9969/Tech-VCRaidBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-> The easy way to host this bot, deploy to Heroku
-> If you Deploy on Heroku you can Use Upto 8 Multi Clients !
+<h3 align="center">
+    ─ sᴜᴩᴩᴏʀᴛ ─
+</h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chandan7900/ArrayCore/tree/main)
+<p align="center">
+<a href="https://telegram.me/TechQuardSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-</details>
+<h3 align="center">
+    ─ ᴜᴘᴅᴀᴛᴇs ─
+</h3>
 
-<details>
-<summary><b>• Railway Deployment </b></summary>
-<br>
+<p align="center">
+<a href="https://telegram.me/TechQuard"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-> Click Below Button to deploy on railway
-> If you Deploy on Railway you can Use Upto 10 Multi Clients !
+<h3 align="center">
+    ─ ᴅᴇᴠᴇʟᴏᴘᴇʀ ─
+</h3>
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/The-HellBot/ArrayCore/tree/railway&plugins=postgresql&envs=APP_ID,API_HASH,BOT_TOKEN,GROUP_MODE,HNDLR,SESSION,SESSION2,SESSION3,SESSION4,SESSION5,SESSION6,SESSION7,SESSION8,SESSION9,SESSION10,SUDO_USERS&optionalEnvs=GROUP_MODE,SESSION2,SESSION3,SESSION4,SESSION5,SESSION6,SESSION7,SESSION8,SESSION9,SESSION10)
+<p align="center">
+<a href="https://telegram.me/Simple_Mundaa"><img src="https://img.shields.io/badge/%20Sumit Yadav-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-</details>
+<h3 align="center">
+    ─ ᴄʀᴇᴅɪᴛs ─
+</h3>
 
-<details>
-<summary><b>• Session String</b></summary>
-<br>
-
-> You'll need a API_ID & API_HASH in order to generate pyrogram session string. Get This Values from [Here.](https://my.telegram.org)
-
-<h4> Generate Session via Repl.it: </h4>    
-<p><a href="https://replit.com/@TheHellBot/HellBot?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-
-</details>
-
-# Credits
-- Team
-  - [Akash](https://github.com/Desinobita)   ``Creator``
-  - [HellBoy](https://github.com/HellBoy-OP) ``Dev``
-  - [RiZoeL](https://github.com/MrRizoel)    ``Dev``
-
-- Libraries
-  - [pytgcalls](https://github.com/pytgcalls/pytgcalls)
-  - [Pyrogram](https://github.com/pyrogram/pyrogram)
+<p align="center">
+<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/ᴘʏʀᴏɢʀᴀᴍ-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
+<a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/ᴘᴛɢᴄᴀʟʟs-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
+<a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/ᴄᴀʟʟsᴍᴜsɪᴄ-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
+<a href="https://github.com/Sumit9969"> <img src="https://img.shields.io/badge/sᴜᴍɪᴛ ʏᴀᴅᴀᴠ-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
+<a href="https://github.com/MrRizoel"> <img src="https://img.shields.io/badge/ʀɪᴢᴏᴇʟ-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
+</p>
