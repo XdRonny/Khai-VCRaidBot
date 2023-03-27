@@ -5,7 +5,7 @@ telegraph
 telethon 
 gTTS
 googletrans==4.0.0rc1
-yt-dlp==2021.12.01
+git+https://github.com/yt-dlp/yt-dlp
 asyncio
 requests
 aiohttp
